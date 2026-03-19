@@ -1,5 +1,5 @@
 <?php
-$db_host = 'localhost';
+$db_host = 'srv1740.hstgr.io';
 $db_name = 'u966043993_balafinance';
 $db_user = 'u966043993_balafinance';
 $db_pass = 'Balafinance@123';
