@@ -33,7 +33,7 @@
       <span>Add Finance</span>
     </a>
 
-    <!-- Investor Management Section - Added here -->
+    <!-- Investor Management Section -->
     <div class="sidebar-label">Investor Management</div>
 
     <a href="investors.php" class="nav-link <?php echo ($currentPage ?? '') === 'investors' ? 'active' : ''; ?>" data-testid="nav-investors">
@@ -146,6 +146,11 @@
     <a href="reports.php" class="nav-link <?php echo ($currentPage ?? '') === 'reports' ? 'active' : ''; ?>" data-testid="nav-reports">
       <i class="bi bi-graph-up"></i>
       <span>Reports</span>
+    </a>
+    
+    <a href="overall-report.php" class="nav-link <?php echo ($currentPage ?? '') === 'overall-report' ? 'active' : ''; ?>" data-testid="nav-overall-report">
+      <i class="bi bi-pie-chart-fill"></i>
+      <span>Overall Report</span>
     </a>
     
     <a href="customer-wise-report.php" class="nav-link <?php echo ($currentPage ?? '') === 'customer-wise' ? 'active' : ''; ?>" data-testid="nav-customer-wise">
