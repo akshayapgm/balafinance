@@ -1,0 +1,25 @@
+[17-Mar-2026 08:09:54 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'c.customer_number2' in 'SELECT' in /home/u966043993/domains/ecommerstore.in/public_html/bala-finance/pay-emi.php:65
+Stack trace:
+#0 /home/u966043993/domains/ecommerstore.in/public_html/bala-finance/pay-emi.php(65): mysqli->prepare()
+#1 {main}
+  thrown in /home/u966043993/domains/ecommerstore.in/public_html/bala-finance/pay-emi.php on line 65
+[17-Mar-2026 08:10:00 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'c.customer_number2' in 'SELECT' in /home/u966043993/domains/ecommerstore.in/public_html/bala-finance/pay-emi.php:65
+Stack trace:
+#0 /home/u966043993/domains/ecommerstore.in/public_html/bala-finance/pay-emi.php(65): mysqli->prepare()
+#1 {main}
+  thrown in /home/u966043993/domains/ecommerstore.in/public_html/bala-finance/pay-emi.php on line 65
+[17-Mar-2026 08:12:16 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'c.customer_number2' in 'SELECT' in /home/u966043993/domains/ecommerstore.in/public_html/bala-finance/pay-emi.php:65
+Stack trace:
+#0 /home/u966043993/domains/ecommerstore.in/public_html/bala-finance/pay-emi.php(65): mysqli->prepare()
+#1 {main}
+  thrown in /home/u966043993/domains/ecommerstore.in/public_html/bala-finance/pay-emi.php on line 65
+[17-Mar-2026 09:15:17 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'c.customer_number2' in 'SELECT' in /home/u966043993/domains/ecommerstore.in/public_html/bala-finance/pay-emi.php:65
+Stack trace:
+#0 /home/u966043993/domains/ecommerstore.in/public_html/bala-finance/pay-emi.php(65): mysqli->prepare()
+#1 {main}
+  thrown in /home/u966043993/domains/ecommerstore.in/public_html/bala-finance/pay-emi.php on line 65
+[17-Mar-2026 09:21:42 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'c.customer_number2' in 'SELECT' in /home/u966043993/domains/ecommerstore.in/public_html/bala-finance/pay-emi.php:65
+Stack trace:
+#0 /home/u966043993/domains/ecommerstore.in/public_html/bala-finance/pay-emi.php(65): mysqli->prepare()
+#1 {main}
+  thrown in /home/u966043993/domains/ecommerstore.in/public_html/bala-finance/pay-emi.php on line 65
